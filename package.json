@@ -1,12 +1,13 @@
 {
     "name": "scrix",
-    "displayName": "scrix",
+    "displayName": "Scrix Theme",
     "description": "Darkness theme",
     "publisher": "yasin2dev",
+    "icon": "theme/res/scrix.png",
     "repository": {
         "url": "https://github.com/yasin2dev/scrix.git"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.22.0"
     },
