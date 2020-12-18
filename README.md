@@ -4,9 +4,14 @@ Visual Studio Code dark theme
 
 Tested Languages:
 
-* [] Javascript
-* [] Python
-* [] C
-* [] C++
-* [] HTML
-* [] CSS
+* [x] Javascript
+* [x] Python
+* [x] C
+* [x] C++
+* [x] HTML
+* [x] CSS
+* [x] PHP
+
+## Preview
+
+![preview](./theme/res/preview.png)

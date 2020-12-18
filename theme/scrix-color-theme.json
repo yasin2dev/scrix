@@ -33,7 +33,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#ff0000",
+                "foreground": "#0087bd",
                 "fontStyle": "italic bold"
             }
         },
@@ -457,7 +457,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#79ecec"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#79ecec"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#79ecec"
 			}
 		},
 		{
@@ -493,7 +493,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#79ecec"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#79ecec"
 			}
 		},
 		{
